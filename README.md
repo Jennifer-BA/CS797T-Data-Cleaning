@@ -1,2 +1,9 @@
 # CS797T-Data-Cleaning
-Materials for CS797T Data Cleaning course
+This repo holds materials for CS797T Data Cleaning course and a wide variety of materials focused on growing a career in data science. 
+
+You'll find folders for the following:
+- Cheat Sheets
+
+Not all materials are PDFs--links to various resources are below:
+1. Training on Cloud Platforms
+   - [Training Path for Microsoft Certified Azure Data Scientist Associate](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
